@@ -1,3 +1,3 @@
 ### Quem somos?
 
-A **Web Solidária** é uma organização que usa o serviço de hospedagem gratuito do GitHub para criar e hospedar sites para ONGs (Organizações Não-Governamentais). Oferecemos a essas organizações, sem nenhum custo, serviços de concepção e desenvolvimento dos sites que hospedamos.
+A **Web Solidária** é uma organização que cria sites sem custos de concepção, desenvolvimento ou manutenção para ONGs (Organizações Não-Governamentais). Usamos o serviço de hospedagem gratuito do GitHub, o GitHub Pages, para hospedar sites que criamos.
